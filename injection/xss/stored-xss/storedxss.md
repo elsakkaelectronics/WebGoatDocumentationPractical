@@ -1,0 +1,2 @@
+<h1> xss stored</h1>
+stored xss is when maliacious script is stored in the database and is represented in the dom and runs each time a user sees it<br><img src='https://i.postimg.cc/76Kh8TpM/Screenshot-2026-08-05-174159.png'> here we want to write a comment that runs the <code>webgoat.customjs.phoneHome</code> function .<br> <img so by inspect you can seee its in a <p> so <img src='http://i.postimg.cc/DwfBgV7b/Screenshot-2026-08-05-180131.png'> <code> < /p>< script>webgoat.customjs.phoneHome()< /script></code><br>worked
