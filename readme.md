@@ -6,4 +6,4 @@ all levels
 <b><a href='https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/tree/main/injection/xss'>XSS</a></b><br>
   <a href="https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/tree/main/injection/xss/reflected/reflected.md">reflected</a><br>
   <a href="https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/blob/main/injection/xss/dom-based/dombased1.md">dom-based</a><br>
-  <a href="https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/blob/main/injection/xss/xss-quiz/xssquiz.md">dom-based</a></pre>
+  <a href="https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/blob/main/injection/xss/xss-quiz/xssquiz.md">xss-quiz</a></pre>
