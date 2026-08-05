@@ -2,6 +2,6 @@
 webgoat owasp top 10 documentation
 <a href="https://t.me/elsakka_webgoat"> <br> live course free </a> <br>
 all levels 
-<h1>injection</h1>
+<a href='https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/tree/main/injection/<h1>injection</h1>
 <b>XSS</b>
 <a href="https://github.com/elsakkaelectronics/WebGoatDocumentationPractical/tree/main/injection/xss/reflected">reflected</a>
